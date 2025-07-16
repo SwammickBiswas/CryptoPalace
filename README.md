@@ -27,8 +27,8 @@ A full-stack MERN application allowing users to register/login, view live crypto
 
 ## 🚀 Deployment
 
-- **Frontend Live:** [Frontend URL](#)
-- **Backend API:** [Backend URL](#)
+- **Frontend Live:** [https://crypto-palace-frontend.vercel.app/](#)
+- **Backend API:** [https://crypto-palace-server.vercel.app/](#)
 
 ---
 
@@ -46,8 +46,8 @@ A full-stack MERN application allowing users to register/login, view live crypto
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/your-repo.git
-cd crypto-tracker
+git clone https://github.com/SwammickBiswas/CryptoPalace
+
 
 
 2️⃣ Backend Setup
