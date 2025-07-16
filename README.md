@@ -38,6 +38,7 @@ A full-stack MERN application allowing users to register/login, view live crypto
 ![MongoDB Pictures](<WhatsApp Image 2025-07-16 at 19.01.33_deb9796d.jpg>)
 ![MongoDB Pictures](<WhatsApp Image 2025-07-16 at 19.02.59_4bf584bc.jpg>)
 ![MongoDB Pictures](<WhatsApp Image 2025-07-16 at 19.03.25_449787b5.jpg>)
+![CronJob image](image.png)
 
 ---
 
